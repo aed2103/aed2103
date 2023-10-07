@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aed2103
 - 👀 I’m interested in applying AI to clinical psychology and pharmacology
 - 🌱 I’m currently learning about neural networks
-- 💞️ I’m looking to collaborate on research projects that analyze data related to mental health or prescribing psychotropic medication
+- 💞️ I’m looking to collaborate on research projects that analyze data related to mental health including psychotropic medication
 - 📫 How to reach me columbuscirclepsychology.com
 
 <!---
